@@ -1,0 +1,122 @@
+
+a{
+  color:#dd2c00;
+  padding-left: 0.5rem;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.container-fluid{
+  padding:3% 15%;
+
+}
+.navbar{
+  padding: 0 0 2rem;
+}
+/* Navbar */
+.navbar-brand{
+  font-size: 0.8rem;
+}
+
+.nav-link{
+  font-size: 1rem;
+  font-family:"Montserrat";
+  font-weight: 300;
+
+
+
+}
+/* Download buttons */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Features */
+#features{
+  padding:10% 15%;
+}
+
+
+
+.sign-up{
+  margin-left: 85%;
+  font-size: 0.8rem;
+  position: static;
+
+}
+.plus-square{
+  margin-left: 40%;
+  font-size: 1rem;
+}
+
+
+i{
+  color:#dd2c00;
+}
+.sign-up-icon{
+  padding-right: 2%;
+}
+.intro-2{
+  background-color: #f1f3f4;
+  padding: 2.5% 7%;
+  color:#706c61;
+}
+.website-span{
+  color:#dd2c00;
+
+}
+.fa-briefcase , .fa-tv , .fa-flask , .fa-coffee{
+  font-size: 100%;
+
+  padding: 0 30% 5%;
+}
+h3{
+  font-family: "Montserrat";
+    font-size: 1.2rem;
+
+
+}
+p{
+color: #8f8f8f;
+
+}
+.recent-works{
+  height:100px;
+  width:170px;
+  padding-bottom: 10px;
+}
+.learn-more{
+  text-align: center;
+}
+#features{
+  text-align: center;
+}
+.client-img{
+
+  width:100%;
+     height: 50px;
+     border-style: solid;
+     border-color: lightgray;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  margin: 50px 0 0 0;
+  padding-top: 30px;
+
+}
+.footer-links{
+  color:gray;
+}
+h6{
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+
+}
+ul{
+  padding: 0px;
+  font-size: 0.8rem;
+}
